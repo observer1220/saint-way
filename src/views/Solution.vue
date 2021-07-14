@@ -7,7 +7,7 @@
     <div class="title">
       <h2>成功案例</h2>
     </div>
-    <div class="solution_main">
+    <!-- <div class="solution_main">
       <div class="item">
         <img src="https://www.epcsi.com.tw/epcsi456/program_img/tw/album/albumS/2019070213285146654.jpeg" alt="">
         <div>
@@ -93,8 +93,8 @@
             掌握檔案出入庫的狀態，再加上與文件控管流程之整合，更能將文件簽核、調閱與文件實體緊密的結合，達到萬無一
             失的文件管理。實績案例：國家安全局、外交部。</p>
         </div>
-      </div>
-    </div>
+      </div> -->
+    <!-- </div> -->
   </div>
 </template>
 

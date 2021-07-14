@@ -39,13 +39,13 @@
           <li>iOS / Android 行動APP</li>
           <ul>
             <li>原生式：Objective-C, Swift, Java, Kotlin</li>
-            <li>混合式：Cordova, Flutter</li>
+            <li>混合式：Cordova, Dart / Flutter</li>
           </ul>
           <li>網站前台</li>
           <ul>
-            <li>Vue.js</li>
-            <li>JavaScript / jQuery</li>
-            <li>Bootstrap / Element UI</li>
+            <li>HTML / CSS / SCSS / Bootstrap / Element UI</li>
+            <li>JavaScript / jQuery / Vue.js</li>
+            <li>RWD 響應式網站規劃</li>
           </ul>
           <li>應用軟體</li>
           <ul>
@@ -131,7 +131,7 @@ export default {
     flex-direction: column;
   }
   .item ul{
-    line-height: 1.8;
+    line-height: 2;
   }
 }
 </style>

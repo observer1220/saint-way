@@ -125,7 +125,7 @@
   h3{
     padding: 5px;
     background: #30405A;
-    color: #DFDAD4;
+    color: white;
   }
 }
 </style>

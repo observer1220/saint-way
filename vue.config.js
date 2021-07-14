@@ -1,3 +1,3 @@
 module.exports = {
-  assetsPublicPath: './saint-way/'
+  PublicPath: './'
 }
